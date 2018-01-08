@@ -1,0 +1,64 @@
+﻿  源.cpp
+e:\数据结构\第四次课程设计\4\4\4\utility.h(184): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+e:\数据结构\第四次课程设计\4\4\4\源.cpp(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+e:\数据结构\第四次课程设计\4\4\4\源.cpp(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+e:\数据结构\第四次课程设计\4\4\4\源.cpp(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+e:\数据结构\第四次课程设计\4\4\4\源.cpp(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+e:\数据结构\第四次课程设计\4\4\4\schedule.h(526): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+  e:\数据结构\第四次课程设计\4\4\4\schedule.h(513): note: 编译 类 模板 成员函数 "void Schedule<8>::Write(void)" 时
+  e:\数据结构\第四次课程设计\4\4\4\源.cpp(37): note: 参见对正在编译的函数 模板 实例化“void Schedule<8>::Write(void)”的引用
+  e:\数据结构\第四次课程设计\4\4\4\源.cpp(34): note: 参见对正在编译的 类 模板 实例化 "Schedule<8>" 的引用
+e:\数据结构\第四次课程设计\4\4\4\schedule.h(534): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+e:\数据结构\第四次课程设计\4\4\4\schedule.h(97): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+  e:\数据结构\第四次课程设计\4\4\4\schedule.h(85): note: 编译 类 模板 成员函数 "Schedule<8>::Schedule(std::ifstream *,std::ofstream *)" 时
+  e:\数据结构\第四次课程设计\4\4\4\源.cpp(34): note: 参见对正在编译的函数 模板 实例化“Schedule<8>::Schedule(std::ifstream *,std::ofstream *)”的引用
+e:\数据结构\第四次课程设计\4\4\4\schedule.h(311): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+  e:\数据结构\第四次课程设计\4\4\4\schedule.h(307): note: 编译 类 模板 成员函数 "char *Schedule<8>::DecimalToChineseChar(int,char *)" 时
+  e:\数据结构\第四次课程设计\4\4\4\schedule.h(518): note: 参见对正在编译的函数 模板 实例化“char *Schedule<8>::DecimalToChineseChar(int,char *)”的引用
+  e:\数据结构\第四次课程设计\4\4\4\schedule.h(513): note: 编译 类 模板 成员函数 "void Schedule<8>::Write(void)" 时
+  e:\数据结构\第四次课程设计\4\4\4\源.cpp(37): note: 参见对正在编译的函数 模板 实例化“void Schedule<8>::Write(void)”的引用
+e:\数据结构\第四次课程设计\4\4\4\schedule.h(314): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+e:\数据结构\第四次课程设计\4\4\4\schedule.h(320): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+e:\数据结构\第四次课程设计\4\4\4\schedule.h(321): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+e:\数据结构\第四次课程设计\4\4\4\schedule.h(324): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+e:\数据结构\第四次课程设计\4\4\4\schedule.h(329): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+e:\数据结构\第四次课程设计\4\4\4\schedule.h(332): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+e:\数据结构\第四次课程设计\4\4\4\schedule.h(337): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+e:\数据结构\第四次课程设计\4\4\4\schedule.h(181): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+  e:\数据结构\第四次课程设计\4\4\4\schedule.h(170): note: 编译 类 模板 成员函数 "bool Schedule<8>::RangeOne(int &,int,char [])" 时
+  e:\数据结构\第四次课程设计\4\4\4\schedule.h(119): note: 参见对正在编译的函数 模板 实例化“bool Schedule<8>::RangeOne(int &,int,char [])”的引用
+  e:\数据结构\第四次课程设计\4\4\4\schedule.h(59): note: 编译 类 模板 成员函数 "int Schedule<8>::LocateVex(char [])" 时
+  e:\数据结构\第四次课程设计\4\4\4\schedule.h(419): note: 参见对正在编译的函数 模板 实例化“int Schedule<8>::LocateVex(char [])”的引用
+e:\数据结构\第四次课程设计\4\4\4\schedule.h(201): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+  e:\数据结构\第四次课程设计\4\4\4\schedule.h(193): note: 编译 类 模板 成员函数 "bool Schedule<8>::RangeTwo(int &,int,char [])" 时
+  e:\数据结构\第四次课程设计\4\4\4\schedule.h(145): note: 参见对正在编译的函数 模板 实例化“bool Schedule<8>::RangeTwo(int &,int,char [])”的引用
+e:\数据结构\第四次课程设计\4\4\4\schedule.h(203): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+e:\数据结构\第四次课程设计\4\4\4\schedule.h(226): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+  e:\数据结构\第四次课程设计\4\4\4\schedule.h(218): note: 编译 类 模板 成员函数 "bool Schedule<8>::RangeThree(int &,int,char [])" 时
+  e:\数据结构\第四次课程设计\4\4\4\schedule.h(128): note: 参见对正在编译的函数 模板 实例化“bool Schedule<8>::RangeThree(int &,int,char [])”的引用
+e:\数据结构\第四次课程设计\4\4\4\schedule.h(228): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+e:\数据结构\第四次课程设计\4\4\4\schedule.h(230): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+  4.vcxproj -> E:\数据结构\第四次课程设计\4\4\Debug\4.exe
+  4.vcxproj -> E:\数据结构\第四次课程设计\4\4\Debug\4.pdb (Partial PDB)
